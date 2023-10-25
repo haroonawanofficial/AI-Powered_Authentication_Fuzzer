@@ -40,6 +40,15 @@ AuthSec-Prober is a powerful and versatile tool designed for comprehensive web l
 - Provides protection against unauthorized access, data breaches, and security compromises.
 - Assists in maintaining compliance with cybersecurity standards and regulations.
 
+## Cases
+
+- The tool performs a basic login page assessment for common vulnerabilities.
+- Configure the tool to conduct SQL, ASP, and HTML injection tests.
+- Enable concurrency and multithreading features for faster testing.
+- Access the SQLite database to retrieve detailed historical data on security assessments.
+- Generate an HTML report that includes a summary of vulnerabilities.
+- Verify that the tool successfully checks various combinations of usernames and passwords.
+
 ## Usage
 
 1. Clone the repository to your local machine.
