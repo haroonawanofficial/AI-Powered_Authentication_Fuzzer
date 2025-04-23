@@ -1,0 +1,15 @@
+admin
+root
+administrator
+guest
+user
+test
+info
+sysadmin
+operator
+backup
+manager
+ftp
+webmaster
+oracle
+postgres
